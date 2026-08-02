@@ -1,0 +1,5 @@
+{
+  "topic": "pii test",
+  "reason": "PII flagged by guard.pii_check",
+  "status": "open"
+}
